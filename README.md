@@ -1,42 +1,24 @@
 # [JSL09] Submission: Personal Dashboard Chrome Extension
 
-You will:
-1. Use the provided Starter Code Repository: https://github.com/CodeSpace-Academy/Module_09_StudentNo_Classcode_Group_Name-Surname_JSL09
-2. Code your solution.
-3. Commit changes to your GitHub repository.
-4. Submit the GitHub Repository Link to the LMS [JSL09] Submission Project Tab.
 
-In this project you will follow along with the Scrimba Promise Rejection capstone to create a Personal Dashboard for your Chrome Browser. Note you are only required to submit the project code. You DO NOT need to submit the deployed Chrome extension. 
+## Overview of the Project
+The Promise Rejection Dashboard Challenge is an interactive web-based project focused on creating a Chrome Dashboard extension. This project is hosted on Scrimba and will be uploaded to the Module 09 GitHub repository.
 
-Scrimba Reference Link: https://scrimba.com/learn/frontend/promise-rejection-coc4a4e4d8d208ab33b190dd5
+## What I Included
+I cloned the provided Starter Code Repository to my local development environment from GitHub.
+I downloaded the personalized Scrimba files from the zip folder and placed them in the cloned GitHub repository.
+I opened the cloned project in my code editor and coded solutions for each challenge as per the instructions, ensuring to add customizations where necessary.
 
-![](<[JSL09 Solution].png>)
-Note that this background image is dynamically generated so your's will look different.
+## Challenges
+I encountered various technical challenges while implementing the requirements of the project, such as integrating the Chrome Dashboard extension and ensuring compatibility across different browsers.Managing the workflow of downloading, modifying, and uploading files posed some challenges, particularly in ensuring that changes were accurately reflected in the GitHub repository.
 
-## What You Need to Do:
+## Areas of Improvement
+Streamlining Workflow: Finding ways to streamline the workflow of downloading Scrimba files, making modifications, and pushing changes to GitHub could improve efficiency and reduce the likelihood of errors.
+Enhancing User Experience: Exploring additional features or enhancements for the Chrome Dashboard extension could further improve the user experience and functionality.
 
-1. Clone the provided Starter Code Repository to your local development environment (e.g., VSCode): https://github.com/CodeSpace-Academy/Module_09_StudentNo_Classcode_Group_Name-Surname_JSL09
-2. Open the cloned project in your code editor.
-3. Code your solution for the challenge as per the provided instructions.
-4. If you have coded your Personal Dashboard challenge in Scrimba, you will need to download the zip folder of your project files. Unzip the project files into your JSL09 project repo on GitHub. Make sure to NOT use the Scrimba README. Instead you will keep your starter code README.
-5. Commit your changes to your local Git repository with meaningful commit messages.
-6. Push your local Git repository to your GitHub account.
-7. Verify that the changes have been successfully pushed to your GitHub repository.
-
-![alt text](download-scrimba-files.png)
-You can download your Scrimba files in the bottom right hand corner of the Scrimba IDE panel. 
-
-## What You Need to Include:
-
-1. Ensure that your code includes the necessary modifications to meet the challenge requirements.
-2. Your GitHub repository should contain the updated code files.
-
-## How We'll Assess Your Work:
-
-1. We will review your GitHub repository to ensure that it contains the updated code files.
-2. We will assess the modifications made to the code to verify that they effectively meet the challenge requirements.
-3. We will consider the commit history and meaningful commit messages to evaluate your coding process.
-
-
-
-
+## Overall Learning
+Through this project, I gained valuable experience in:
+Working with Chrome Dashboard extensions.
+Collaborating with version control systems like Git and GitHub.
+Problem-solving and troubleshooting technical issues.
+Adhering to project requirements and meeting deadlines.
